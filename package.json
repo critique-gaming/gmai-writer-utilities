@@ -2,7 +2,7 @@
 	"name": "gmai-writer-utilities",
 	"displayName": "GMAI writer utilities",
 	"description": "A set of utilities for GMAI writers to use",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "critique-gaming",
 	"repository": {
 		"type": "git",
@@ -36,7 +36,7 @@
 				},
 				"gmai-writer-utilities.awsRegion": {
 					"type": "string",
-					"default": "us-east-1",
+					"default": "eu-central-1",
 					"description": "AWS Region to be used"
 				},
 				"gmai-writer-utilities.pollyVoice": {
