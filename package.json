@@ -3,6 +3,11 @@
 	"displayName": "GMAI writer utilities",
 	"description": "A set of utilities for GMAI writers to use",
 	"version": "0.0.1",
+	"publisher": "critique-gaming",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/critique-gaming/gmai-writer-utilities.git"
+	},
 	"engines": {
 		"vscode": "^1.60.0"
 	},
